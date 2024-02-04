@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravicodr" alt="ravicodr" /></a> </p>
 
-- 🔭 I’m currently working on **freelancer**
 
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
+
+- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS
 
 - 👯 I’m looking to collaborate on **dedicated devlopers**
 
